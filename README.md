@@ -14,7 +14,7 @@ A comprehensive web vulnerability scanner and demonstration platform built for m
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Web-Vulnerability-Lab.git](https://github.com/YourUsername/Web-Vulnerability-Lab.git)
+    git clone [https://github.com/YourUsername/Web-Vulnerability-Lab.git](https://github.com/SeifeldinWalid/Web-Vulnerability-Lab.git)
     cd Web-Vulnerability-Lab
     ```
 
