@@ -18,7 +18,7 @@ A comprehensive web vulnerability scanner and demonstration platform built with 
 
 
 
-##### **Recent Changes (November 29, 2025)**
+
 
 
 
@@ -249,3 +249,4 @@ None specified yet.
 
 * Some LSP warnings about import resolution (cosmetic, dependencies are installed correctly)
 * Development server warnings in production (resolved by using Gunicorn in deployment)
+
